@@ -1,0 +1,6 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+/Autofac.Extras.DynamicProxy.Core/bin/Debug/netstandard1.6
+/Autofac.Extras.DynamicProxy.Core/obj/Debug/netstandard1.6
+*.suo
